@@ -1,0 +1,4 @@
+Import pywhatkit 
+pywhatkit.sendwhatmsg(‘number’,‘dialogue’hour,minute)
+# send the message to the particular person
+#Then run the program
